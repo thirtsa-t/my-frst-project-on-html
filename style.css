@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(230, 219, 219);
+}
+h1{
+    color: burlywood;
+    text-align: center;
+}
+h2 {
+    color: crimson ;
+padding-left: 160px; 
+}
+p { color: blue; 
+    padding-left: 130px;
+}
+img {
+    padding-left: 200px;
+}
+a {
+display: block;
+padding-left: 160px;
+}
